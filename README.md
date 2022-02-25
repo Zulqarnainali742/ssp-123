@@ -1,4 +1,4 @@
-# ssp.gethub.io
+
 <!doctype html>
 <html>
  <head>
