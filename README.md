@@ -13,12 +13,6 @@
 <body></body>
 <h2>Zulqarnain image</h2>
 <img src="image1.jpg" alt="img" width="260" height="200">
-<body>
-<h1 style="text-align=center;">website</h1>
- </body>
- <html>
-</body>
-</html>
 <h2>NAME=ZAIN ABBAS </h2> 
 <h2>REGNO=458-FBAS/BSIT/F19></h2> 
 <img src="ZAIN.jpg" alt="image" width="260" height="200"> 
