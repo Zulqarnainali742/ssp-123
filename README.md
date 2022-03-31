@@ -12,7 +12,7 @@
 </html>
 <body></body>
 <h2>Zulqarnain image</h2>
-<img src="image1.jpg" alt="img" width="260" height="200">   
+<img src="image1.jpg" alt="img" width="260" height="200">                               <h2>website</h2>
 </body>
 </html>
 <h2>NAME=ZAIN ABBAS </h2> 
