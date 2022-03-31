@@ -14,7 +14,7 @@
 <h2>Zulqarnain image</h2>
 <img src="image1.jpg" alt="img" width="260" height="200">
 <h1  style="text-align:center;">for visit website here</h1>
-<h1  style="text-align:center;"><button>click here</button></h1>
+<h1  style="text-align:center;"><button onClick="window.location.href='https://www.google.com';">click here for my website</button>
 <h2>NAME=ZAIN ABBAS </h2> 
 <h2>REGNO=458-FBAS/BSIT/F19></h2> 
 <img src="ZAIN.jpg" alt="image" width="260" height="200"> 
