@@ -12,12 +12,12 @@
 </html>
 <body></body>
 <h2>Zulqarnain image</h2>
-<img src="image1.jpg" alt="img" width="260" height="100">   
+<img src="image1.jpg" alt="img" width="260" height="200">   
 </body>
 </html>
 <h2>NAME=ZAIN ABBAS </h2> 
 <h2>REGNO=458-FBAS/BSIT/F19></h2> 
-<img src="image.jpg" alt="image" width="260" height="100"> 
+<img src="image.jpg" alt="image" width="260" height="200"> 
 <h1>PROJECT PROPOSAL ABOUT WEBSITE</h1>   
 <h3>    in this project after visiting different sites such as Food panda app and also other app like sazbimandi online and groce app so we create a website that order food easily can people can easily contact us </h3> 
 <h2>FOOD PANDA  SABZIMANDIAPP GROCERAPP (THEIR DIFFERENCE AND OUR IDEA]</h2> 
